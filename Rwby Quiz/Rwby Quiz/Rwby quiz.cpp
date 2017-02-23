@@ -159,7 +159,7 @@ int main() {
 	else if (input == 'N')
 		Weiss == Weiss + 1;
 	else
-		cout << "Try again." << endl;
+		cout << "Try again" << endl;
 
 	if ((Ruby < Weiss) && (Ruby < Blake) && (Ruby < Yang) && (Ruby < Jaune) && (Ruby < Qrow) && (Ruby < Ren))
 		cout << "You're Ruby! Basically she's little red riding hood." << endl;
