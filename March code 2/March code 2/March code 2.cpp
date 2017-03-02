@@ -6,7 +6,7 @@ using namespace std;
 int input;
 void Burping(int x); //function declaration
 int main() {
-	cout << "How many burps do you want?" << endl;
+	cout << "How many beeps do you want?" << endl;
 	cin >> input;
 	Burping(input); //function call
 
